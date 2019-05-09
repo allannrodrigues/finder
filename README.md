@@ -9,4 +9,4 @@ Ao encontrar o valor será exibido na tela a linha.
 1. baixar o .net core versão 2.0 ou superior [dotnet](https://dotnet.microsoft.com/download)
 2. após a instalação execute o comado "dotnet restore"
 3. após o restore dos packages execute o comando "dotnet publish -c Release -r win10-x64"
-4. o executável será gerado dentro da pasta [release](src\Finder\bin\Release\netcoreapp2.2\win10-x64)
+4. o executável será gerado dentro da pasta "src\Finder\bin\Release\netcoreapp2.2\win10-x64"
